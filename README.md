@@ -1,1 +1,1 @@
-It is Node.js API
+It is a web API built with Node.js.
